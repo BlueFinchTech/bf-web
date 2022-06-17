@@ -1,5 +1,9 @@
 @tailwind base;
 
+body {
+  background-color: #1b2049;
+}
+
 h1 {
   @apply text-2xl;
 }
